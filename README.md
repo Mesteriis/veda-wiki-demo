@@ -4,6 +4,10 @@ This repository is a knowledge base. [VEDA](https://github.com/Mesteriis/veda-wi
 reads it as a wiki source, agents update it through VEDA's MCP tools, and
 GitHub Pages publishes it as a static site with the same rendering.
 
+This copy is a live demo: the published site is
+<https://mesteriis.github.io/veda-wiki-demo/>, and VEDA reads the same
+repository as a public source.
+
 ## Sections
 
 - [Guides](guides/) — how to write and organise pages.
